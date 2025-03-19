@@ -1,1 +1,0 @@
-# A-program-to-evaluate-the-following-series-1-2-3-2-5-2-up-to-n-terms-
